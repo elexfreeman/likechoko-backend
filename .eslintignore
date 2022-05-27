@@ -1,0 +1,9 @@
+/build/**
+/lib/**
+/public/**
+/node_modules/**
+/src/vendors/**
+/src/Migrations/**
+/coverage/**
+/public/dist/js/**
+/src/Base/components/component-sbp-widget.js
